@@ -674,6 +674,7 @@
   <commonModules>CommonModule.ОбщегоНазначенияПереопределяемый</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияСлужебныйКлиент</commonModules>
   <commonModules>CommonModule.ОбщегоНазначенияСлужебныйКлиентСервер</commonModules>
+  <commonModules>CommonModule.он_ДоработкиСервер</commonModules>
   <commonModules>CommonModule.ОтчетыКлиент</commonModules>
   <commonModules>CommonModule.ОтчетыКлиентПереопределяемый</commonModules>
   <commonModules>CommonModule.ОтчетыКлиентСервер</commonModules>
