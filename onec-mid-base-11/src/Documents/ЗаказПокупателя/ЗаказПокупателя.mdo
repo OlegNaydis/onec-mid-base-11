@@ -194,13 +194,32 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="4207cc8f-2c51-431e-b65b-cf0daec82551">
-    <name>КонтактноеЛицо</name>
+    <name>он_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
       <value>Контактное лицо</value>
     </synonym>
     <type>
-      <types>CatalogRef.КонтактныеЛица</types>
+      <types>CatalogRef.он_КонтактныеЛица</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="98923173-1a2b-4645-b817-668050d0877b">
+    <name>он_СогласованнаяСкидка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Согласованная скидка</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>4</precision>
+        <scale>2</scale>
+      </numberQualifiers>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

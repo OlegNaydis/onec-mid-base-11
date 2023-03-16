@@ -1118,6 +1118,8 @@
   <catalogs>Catalog.НастройкиАвторизацииИнтернетСервисов</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.НоменклатурныеГруппы</catalogs>
+  <catalogs>Catalog.он_Должности</catalogs>
+  <catalogs>Catalog.он_КонтактныеЛица</catalogs>
   <catalogs>Catalog.Организации</catalogs>
   <catalogs>Catalog.ОрганизацииПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ПапкиФайлов</catalogs>
@@ -1134,8 +1136,6 @@
   <catalogs>Catalog.УчетныеЗаписиСинхронизацииФайлов</catalogs>
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
-  <catalogs>Catalog.КонтактныеЛица</catalogs>
-  <catalogs>Catalog.Должности</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
